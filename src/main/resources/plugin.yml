@@ -1,0 +1,5 @@
+name: ${project.artifactId}
+main: com.mcmiddleearth.chatbot.ChatBotPlugin
+version: ${project.version}
+authors: [Eriol_Eandur]
+description: Chatbot for MCME
